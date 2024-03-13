@@ -7,10 +7,9 @@
 <title>Simple Calculator</title>
 <body bgcolor="white">
 	<form method="get" action="./CalcServlet">
-
+	asdfghjklkjhgfcxvbhjuhgf
 		<input type="text" name="num1" placeholder="Enter Number1"> <br>
 		<input type="text" name="num2" placeholder="Enter Number2"> <br>
-jhgjhblj
 		<br />
 		<br /> <select name="operations">
 			<option value="add" selected="selected">Add</option>
